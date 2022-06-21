@@ -2,13 +2,26 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+First run:
+
+```bash
+yarn
+```
+
+if you get yarn command not found you will need to install yarn (this is a 1 time thing for your computer)
+
+in order to install yarn you may need to install node (also a 1 time thing for your computer)
+
+to install all dependencies for the project.
+Then, run the development server:
 
 ```bash
 npm run dev
 # or
 yarn dev
 ```
+
+if this doesn't work you
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
